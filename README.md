@@ -17,10 +17,11 @@ If you would like to contribute to our repository or have any questions/advice, 
 
 - **CoOp**: Learning to Prompt for Vision-Language Models (*NTU, Singapore*) [[IJCV 2022](https://arxiv.org/pdf/2109.01134)] [[PyTorch](https://github.com/KaiyangZhou/CoOp)]
 - **CLIP-Adapter**: Better Vision-Language Models with Feature Adapters (*Shanghai AI Lab*) [[arXiv 2110](https://arxiv.org/abs/2110.04544)][[PyTorch](https://github.com/gaopengcuhk/CLIP-Adapter)]
+-- ### Prompt Learning/Tuning:
 - Conditional Prompt Learning for Vision-Language Models (*NTU, Singapore*) [[CVPR 2022](http://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Conditional_Prompt_Learning_for_Vision-Language_Models_CVPR_2022_paper.pdf)] [[Code](https://github.com/KaiyangZhou/CoOp)](**CoCoOp**) [2]
 - Decorate the Newcomers Visual Domain Prompt for Continual Test Time Adaptation [[AAAI 2023](https://arxiv.org/pdf/2212.04145)] [3]
 - MaPLe: Multi-modal Prompt Learning [[CVPR 2023](https://arxiv.org/pdf/2210.03117)] [[Code](https://github.com/muzairkhattak/multimodal-prompt-learning)] [4]
-- ### Prompt Learning/Tuning:
+
 - **CLIP-Adapter**: Better Vision-Language Models with Feature Adapters (*Shanghai AI Lab*). [[arXiv 2110](https://arxiv.org/abs/2110.04544)][[PyTorch](https://github.com/gaopengcuhk/CLIP-Adapter)]
 * **CoCoOp**: "Conditional Prompt Learning for Vision-Language Models", CVPR, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2203.05557)][[PyTorch](https://github.com/KaiyangZhou/CoOp)]
 * **ProDA**: "Prompt Distribution Learning", CVPR, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2205.03340)]
@@ -93,11 +94,8 @@ If you would like to contribute to our repository or have any questions/advice, 
 Feel free to contribute to our repository.
 
 - If you woulk like to *correct mistakes*, please do it directly;
-- If you would like to *add/update papers*, please finish the following tasks (if necessary):
-    1. Find the max index (current max: **[4]**, not used: none), and create a new one.
-    2. Update [Publications](#publications).
-    3. Update [Papers](#papers).
-- If you have any *questions or advice*, please contact us by email (yuanjk@zju.edu.cn, summitlsf@outlook.com, zhen.zhao@sydney.edu.au) or GitHub issues.
+- If you would like to *add/update papers*, please follow the existing format;
+- If you have any *questions or advice*, please contact us by email (summitlsf@outlook.com) or GitHub issues.
 
 Thank you for your support!
 
@@ -106,16 +104,3 @@ Thank you for your support!
 
 ## References
 * Online Resources:
-    * [Papers with Code](https://paperswithcode.com/methods/category/vision-transformer)
-    * [Transformer tutorial (Lucas Beyer)](http://lucasb.eyer.be/transformer)
-    * [CS25: Transformers United (Course @ Stanford)](https://web.stanford.edu/class/cs25/)
-    * [The Annotated Transformer (Blog)](http://nlp.seas.harvard.edu/annotated-transformer/)
-    * [3D Vision with Transformers (GitHub)](https://github.com/lahoud/3d-vision-transformers)
-    * [Networks Beyond Attention (GitHub)](https://github.com/FocalNet/Networks-Beyond-Attention)
-    * [Practical Introduction to Transformers (GitHub)](https://github.com/IbrahimSobh/Transformers)
-    * [Awesome Transformer Architecture Search (GitHub)](https://github.com/automl/awesome-transformer-search)
-    * [Transformer-in-Vision (GitHub)](https://github.com/DirtyHarryLYL/Transformer-in-Vision)   
-    * [Awesome Visual-Transformer (GitHub)](https://github.com/dk-liang/Awesome-Visual-Transformer)
-    * [Awesome Transformer for Vision Resources List (GitHub)](https://github.com/lijiaman/awesome-transformer-for-vision)
-    * [Transformer-in-Computer-Vision (GitHub)](https://github.com/Yangzhangcst/Transformer-in-Computer-Vision)
-    * [Transformer Tutorial in ICASSP 2022)](https://transformer-tutorial.github.io/icassp2022/)
