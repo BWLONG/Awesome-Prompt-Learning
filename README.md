@@ -1,7 +1,7 @@
 # Awesome Vision Prompts
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This repository is a collection of awesome things about **vision prompts**, including papers, code, etc.
+This repository is a collection of awesome things about **Prompt Learning**, including papers, code, etc.
 
 If you would like to contribute to our repository or have any questions/advice, see [Contributing & Contact](#contributing--contact).
 
@@ -15,12 +15,13 @@ If you would like to contribute to our repository or have any questions/advice, 
 # Papers
 > We list papers, implementation code (the unofficial code is marked with *), etc, in the order of year and from journals to conferences.
 
-- Learning to Prompt for Vision-Language Models [[IJCV 2022](https://arxiv.org/pdf/2109.01134)] [[Code](https://github.com/KaiyangZhou/CoOp)] (**CoOp**) [1]
-- Conditional Prompt Learning for Vision-Language Models [[CVPR 2022](http://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Conditional_Prompt_Learning_for_Vision-Language_Models_CVPR_2022_paper.pdf)] [[Code](https://github.com/KaiyangZhou/CoOp)](**CoCoOp**) [2]
+- **CoOp**: Learning to Prompt for Vision-Language Models (*NTU, Singapore*) [[IJCV 2022](https://arxiv.org/pdf/2109.01134)] [[PyTorch](https://github.com/KaiyangZhou/CoOp)]
+- **CLIP-Adapter**: Better Vision-Language Models with Feature Adapters (*Shanghai AI Lab*) [[arXiv 2110](https://arxiv.org/abs/2110.04544)][[PyTorch](https://github.com/gaopengcuhk/CLIP-Adapter)]
+- Conditional Prompt Learning for Vision-Language Models (*NTU, Singapore*) [[CVPR 2022](http://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Conditional_Prompt_Learning_for_Vision-Language_Models_CVPR_2022_paper.pdf)] [[Code](https://github.com/KaiyangZhou/CoOp)](**CoCoOp**) [2]
 - Decorate the Newcomers Visual Domain Prompt for Continual Test Time Adaptation [[AAAI 2023](https://arxiv.org/pdf/2212.04145)] [3]
 - MaPLe: Multi-modal Prompt Learning [[CVPR 2023](https://arxiv.org/pdf/2210.03117)] [[Code](https://github.com/muzairkhattak/multimodal-prompt-learning)] [4]
 - ### Prompt Learning/Tuning:
-* **CLIP-Adapter**: "CLIP-Adapter: Better Vision-Language Models with Feature Adapters", arXiv, 2021 (*Shanghai AI Lab*). [[Paper](https://arxiv.org/abs/2110.04544)][[PyTorch](https://github.com/gaopengcuhk/CLIP-Adapter)]
+- **CLIP-Adapter**: Better Vision-Language Models with Feature Adapters (*Shanghai AI Lab*). [[arXiv 2110](https://arxiv.org/abs/2110.04544)][[PyTorch](https://github.com/gaopengcuhk/CLIP-Adapter)]
 * **CoCoOp**: "Conditional Prompt Learning for Vision-Language Models", CVPR, 2022 (*NTU, Singapore*). [[Paper](https://arxiv.org/abs/2203.05557)][[PyTorch](https://github.com/KaiyangZhou/CoOp)]
 * **ProDA**: "Prompt Distribution Learning", CVPR, 2022 (*Huawei*). [[Paper](https://arxiv.org/abs/2205.03340)]
 * **VPT**: "Visual Prompt Tuning", ECCV, 2022 (*Cornell*). [[Paper](https://arxiv.org/abs/2203.12119)][[PyTorch](https://github.com/kmnp/vpt)]
